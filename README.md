@@ -1,1 +1,4 @@
+
 # firdt-program
+
+print("Hello")
